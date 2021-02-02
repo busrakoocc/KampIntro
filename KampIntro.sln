@@ -19,11 +19,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP1", "OOP1\OOP1.csproj", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Koleksiyonlar", "Koleksiyonlar\Koleksiyonlar.csproj", "{0B38BAA8-3D51-43D1-8184-A8E364F44F06}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{499CEC8B-E608-45EA-B84B-A62CFA0B1EEA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GenericsIntro", "GenericsIntro\GenericsIntro.csproj", "{499CEC8B-E608-45EA-B84B-A62CFA0B1EEA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP2", "OOP2\OOP2.csproj", "{00FA3C84-69D7-4FCF-8D4A-BF057B9661D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP2", "OOP2\OOP2.csproj", "{00FA3C84-69D7-4FCF-8D4A-BF057B9661D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OOP3", "OOP3\OOP3.csproj", "{847802A8-F630-4501-9D8B-218C659C1361}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OOP3", "OOP3\OOP3.csproj", "{847802A8-F630-4501-9D8B-218C659C1361}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqProject", "LinqProject\LinqProject.csproj", "{9B6886A0-7767-4629-86F1-9C4D252A86EF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -75,6 +77,10 @@ Global
 		{847802A8-F630-4501-9D8B-218C659C1361}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{847802A8-F630-4501-9D8B-218C659C1361}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{847802A8-F630-4501-9D8B-218C659C1361}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B6886A0-7767-4629-86F1-9C4D252A86EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B6886A0-7767-4629-86F1-9C4D252A86EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B6886A0-7767-4629-86F1-9C4D252A86EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B6886A0-7767-4629-86F1-9C4D252A86EF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
